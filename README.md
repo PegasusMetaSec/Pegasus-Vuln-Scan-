@@ -4,7 +4,9 @@
 
   <h1>Pegasus Vuln Scan</h1>
   <p><strong>Next-Generation Vulnerability Scanner | Lightning Fast & Stealth Mode</strong></p>
-  
+  <div align="center">
+<a href="https://trendshift.io/repositories/14638" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14638" alt="HKUDS%2FAI-Researcher | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
   <!-- Badges keren -->
   <img src="https://img.shields.io/badge/Version-2.1.0-blue?style=for-the-badge&logo=vercel">
   <img src="https://img.shields.io/badge/Language-Python%203.11%2B-yellow?style=for-the-badge&logo=python">
