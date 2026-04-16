@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![WhatsApp Image 2026-04-03 at 23 16 11](https://github.com/user-attachments/assets/5ee3e955-d5db-4ee8-a04b-15d2d6eb6d7c)
+<img width="1024" height="1024" alt="WhatsApp Image 2026-04-17 at 02 00 19" src="https://github.com/user-attachments/assets/efaaad1b-d7c4-4894-99e7-9845462513a6" />
 
   <h1>Pegasus Vuln Scan</h1>
   <p><strong>Next-Generation Vulnerability Scanner | Lightning Fast & Stealth Mode</strong></p>
